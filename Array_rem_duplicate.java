@@ -1,4 +1,4 @@
-import java.util.Arrays;
+import java.util.Arrays;   
 public class Array_rem_duplicate {
     boolean contains(int n1,int[] n2){
         boolean b=false;
