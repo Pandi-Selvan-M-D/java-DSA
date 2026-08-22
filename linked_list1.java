@@ -1,3 +1,5 @@
+
+/*
 class node{
     int data;
     node next;
@@ -34,3 +36,4 @@ public class linked_list1 {
         m 
     }
 }
+*/
